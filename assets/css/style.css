@@ -46,7 +46,8 @@ body {
 }
 
 .contact-btn {
-  background-color: #0f0f0f;
+  background-color: #c5b391;
+  border: 2px solid #fafafa;
   width: 100px;
   letter-spacing: 2px;
 }
