@@ -88,6 +88,12 @@ body {
 
 }
 
+.container-new {
+  height: 100vh;
+  position: relative;
+
+}
+
 .container-home:after{
   content:"";
   position:fixed; 
